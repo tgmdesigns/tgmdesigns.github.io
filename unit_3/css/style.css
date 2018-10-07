@@ -1,0 +1,23 @@
+body {
+	color: white;
+	background: #29CFC0;
+}
+h1 {
+	text-align: center;
+	font-weight: 400;
+	font-family: Impact;
+}
+p {
+	font-weight: 100;
+	font-family: "Trebuchet MS"
+}
+ul {
+	font-family: "Trebuchet MS"
+}
+li {
+	font-family: "Trebuchet MS"
+}
+#slogan {
+	font-style: italic;
+	font-family: "Trebuchet MS"
+}
