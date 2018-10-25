@@ -28,7 +28,7 @@ footer {
 	font-family: 'Roboto Slab', serif;
 	color: white;
 	background: #42423C;
-	padding: 4em 1em;
+	padding: 4em, 1em, 2em, 1em;
 }
 .hero {
 	background-image: url(images/paints.jpg);
