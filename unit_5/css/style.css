@@ -18,6 +18,15 @@ ul {
 li {
 	font-family: 'Roboto Slab', serif;
 }
+header {
+	font-family: 'Roboto Slab', serif;
+	color: white;
+	background: #42423C;
+}
+footer {
+	font-color: white;
+	background: #42423C;
+}
 .paintimage {
 	background: url(images/paints.jpg);
 	background-size: cover;
