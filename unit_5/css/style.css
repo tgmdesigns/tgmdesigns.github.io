@@ -5,11 +5,9 @@ body {
 h1 {
 	text-align: center;
 	font-size: 60px;
-	font-weight: 400;
 	font-family: 'Raleway', sans-serif;
 }
 p {
-	font-weight: 100;
 	font-family: 'Roboto Slab', serif;
 }
 ul {
@@ -24,11 +22,12 @@ header {
 	background: #42423C;
 }
 footer {
+	font-family: 'Roboto Slab', serif;
 	color: white;
 	background: #42423C;
-	padding: 10em 0;
+	padding: 7em 1em;
 }
-.paintimage {
+.hero {
 	background-image: url(images/paints.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
