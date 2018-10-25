@@ -30,6 +30,9 @@ footer {
 	background: #42423C;
 	padding: 4em, 1em, 2em, 1em;
 }
+nav {
+	background: #7F7F74;
+}
 .hero {
 	background-image: url(images/paints.jpg);
 	background-size: cover;
