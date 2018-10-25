@@ -24,11 +24,12 @@ header {
 	background: #42423C;
 }
 footer {
-	font-color: white;
+	color: white;
 	background: #42423C;
+	padding: 10em 0;
 }
 .paintimage {
-	background: url(images/paints.jpg);
+	background-image: url(images/paints.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
 	padding: 5em 0;
