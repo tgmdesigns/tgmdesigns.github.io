@@ -25,14 +25,17 @@ header {
 	color: white;
 	float: left;
 }
+header nav {
+	float: left;
+}
 footer {
 	font-family: 'Roboto Slab', serif;
 	color: white;
 	background: #42423C;
 	padding: 4em 1em 2em 1em;
 }
-nav {
-	float: left;
+nav a {
+	text-decoration: none;
 }
 .hero {
 	background-image: url(../images/paintswhite.jpeg);
@@ -50,6 +53,9 @@ nav {
 	text-align: center;
 	color: white;
 	background: orange;
+}
+.hero-inner {
+	text-align: center;
 }
 .center {
 	display: block;
