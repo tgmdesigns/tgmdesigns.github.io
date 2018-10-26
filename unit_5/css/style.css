@@ -1,3 +1,4 @@
+* {margin: 0; padding:0; box-sizing: border-box;}
 body {
 	color: #33332D;
 	background: #F6F7D8;
@@ -22,7 +23,7 @@ li {
 header {
 	font-family: 'Roboto Slab', serif;
 	color: white;
-	background: #42423C;
+	float: left;
 }
 footer {
 	font-family: 'Roboto Slab', serif;
@@ -31,16 +32,15 @@ footer {
 	padding: 4em 1em 2em 1em;
 }
 nav {
-	background: #7F7F74;
+	float: left;
 }
 .hero {
 	background-image: url(../images/paintswhite.jpeg);
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
-	padding: 5em 0;
-	height:70vh;
-	width: 100vw;
+	padding: 15em 0 0;
+	height:90vh;
 }
 .hero .btn {
 	display: inline-block;
