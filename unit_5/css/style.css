@@ -26,13 +26,28 @@ header {
 	float: left;
 }
 header nav {
-	float: left;
+	float: right;
+	padding: 2em;
+}
+header nav a {
+	color: #3d3e3d;
+	padding: 2em;
+}
+header nav a:visited {
+	color: orange;
 }
 footer {
 	font-family: 'Roboto Slab', serif;
 	color: white;
 	background: #42423C;
 	padding: 4em 1em 2em 1em;
+}
+footer a {
+	text-decoration: none;
+	color: orange;
+}
+footer a:visited {
+	color: #d4d4ab;
 }
 nav a {
 	text-decoration: none;
@@ -73,4 +88,5 @@ nav a {
 	font-style: italic;
 	font-size: 28px;
 	font-family: 'Roboto Slab', serif;
+	padding: 1em;
 }
