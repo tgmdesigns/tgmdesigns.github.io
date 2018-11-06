@@ -33,6 +33,9 @@ header nav a {
 	padding: 2em;
 }
 header nav a:visited {
+	color: smokewhite;
+}
+header nav a:hover {
 	color: orange;
 }
 footer {
@@ -66,7 +69,7 @@ nav a {
 	text-decoration: none;
 	text-align: center;
 	color: white;
-	background: orange;
+	background: #602E7A;
 }
 .hero-inner {
 	text-align: center;
