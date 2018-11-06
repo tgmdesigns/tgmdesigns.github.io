@@ -126,3 +126,7 @@ nav a {
 	clear: both;
 	height: 0;
 }
+
+#bottominsta {
+	float: right;
+}
