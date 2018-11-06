@@ -97,25 +97,25 @@ nav a {
 }
 
 #two_column {
-	background-color: purple;
+	background-color: whitesmoke;
 	border: 1px black solid;
 	padding: 20px;
 }
 
 #left {
-	background-color: yellow;
+	background-color: darkgrey;
 	border: 1px black solid;
 	padding: 20px;
 	float: left;
-	width: 40%;
+	width: 30%;
 }
 
 #right {
-	background-color: white;
+	background-color: darkgrey;
 	border: 1px black solid;
 	padding: 20px;
 	float: right;
-	width: 40%;
+	width: 30%;
 }
 
 .clearfix:after {
