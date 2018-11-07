@@ -104,6 +104,12 @@ nav a {
 #tgmlogo {
 	float: left;
 }
+
+#about, #services {
+	max-width: 600px;
+	margin: auto;
+}
+
 #slogan {
 	text-align: center;
 	font-style: italic;
@@ -134,7 +140,6 @@ nav a {
 .instalogo {
 	width: 2.2em;
 	height: 2.2em;
-	border: 0;
 }
 
 #bottominsta {
