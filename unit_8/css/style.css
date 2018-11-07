@@ -84,6 +84,9 @@ nav a {
 	color: white;
 	background: #602E7A;
 }
+.hero .btn:hover {
+	background: orange;
+}
 .hero-inner {
 	text-align: center;
 }
