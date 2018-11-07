@@ -98,7 +98,6 @@ nav a {
 }
 .responsive {
 	width: 100%;
-	max-width: 400px;
 	height: auto;
 }
 #tgmlogo {
@@ -116,10 +115,10 @@ nav a {
 	background-color: whitesmoke;
 	border: 1em white solid;
 	padding: 0.5em;
-	width:90%;
+	width:100%;
 }
 
-.clearfix:after {
+.clearfix:after, .art:after {
 	visibility: hidden;
 	display: block;
 	font-size: 0;
@@ -133,13 +132,19 @@ nav a {
 
 }
 
+.instalogo {
+	width: 2.2em;
+	height: 2.2em;
+	border: 0;
+}
+
 #bottominsta {
 	float: right;
 }
 
 @media only screen and (max-width: 800px) {
 	body {
-		font-size: 14px;
+		font-size: 20px;
 	}
 	header nav {
 		float: none;
