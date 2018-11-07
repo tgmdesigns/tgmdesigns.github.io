@@ -99,8 +99,8 @@ nav a {
 
 #portfolio {
 	background-color: whitesmoke;
-	border: .05em black solid;
-	padding: 1em;
+	border: 1em white solid;
+	padding: 0.5em;
 }
 
 .clearfix:after {
@@ -112,9 +112,8 @@ nav a {
 	height: 0;
 }
 
-.work {
-	border: 0.5em black solid;
-	padding: 1em;
+.art {
+	padding: 0.5em;
 	width:90%;
 
 }
