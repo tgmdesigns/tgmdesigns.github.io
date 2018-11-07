@@ -2,7 +2,7 @@
 body {
 	color: #33332D;
 	background: #F6F7D8;
-	font-size: 20px;
+	font-size: 16px;
 }
 h1 {
 	text-align: center;
@@ -105,7 +105,7 @@ nav a {
 
 #left {
 	background-color: darkgrey;
-	border: 1.05em black solid;
+	border: .05em black solid;
 	padding: 1em;
 	float: left;
 	width: 30%;
