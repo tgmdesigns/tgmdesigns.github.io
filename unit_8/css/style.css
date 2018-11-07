@@ -10,16 +10,24 @@ h1 {
 	font-family: 'Raleway', sans-serif;
 }
 h2 {
-	font-family: 'Raleway', sans-serif; 
+	font-family: 'Raleway', sans-serif;
+	padding: 1em; 
+}
+h3 {
+	font-family: 'Raleway', sans-serif;
 }
 p {
 	font-family: 'Roboto Slab', serif;
+	padding: 1em;
 }
 ul {
 	font-family: 'Roboto Slab', serif;
+	padding: 1em;
 }
 li {
 	font-family: 'Roboto Slab', serif;
+	padding-left: 1em;
+	padding-right: 1em;
 }
 header {
 	font-family: 'Roboto Slab', serif;
