@@ -131,3 +131,12 @@ nav a {
 #bottominsta {
 	float: right;
 }
+
+@media only screen and (max-width: 800px) {
+	body {
+		font-size: 14px;
+	}
+	header nav {
+		float: none;
+		width: auto;
+	}
