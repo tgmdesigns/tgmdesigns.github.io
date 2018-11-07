@@ -17,6 +17,8 @@ h3 {
 	font-family: 'Raleway', sans-serif;
 	text-align: center;
 	padding: 0.8em;
+	text-transform: uppercase;
+	font-weight: 700;
 }
 p {
 	font-family: 'Roboto Slab', serif;
