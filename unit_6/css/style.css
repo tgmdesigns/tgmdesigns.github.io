@@ -33,6 +33,9 @@ header nav a {
 	padding: 2em;
 }
 header nav a:visited {
+	color: smokewhite;
+}
+header nav a:hover {
 	color: orange;
 }
 footer {
@@ -66,7 +69,7 @@ nav a {
 	text-decoration: none;
 	text-align: center;
 	color: white;
-	background: orange;
+	background: #602E7A;
 }
 .hero-inner {
 	text-align: center;
@@ -94,19 +97,36 @@ nav a {
 }
 
 #two_column {
-	background-color: purple;
+	background-color: whitesmoke;
 	border: 1px black solid;
 	padding: 20px;
 }
 
 #left {
-	background-color: yellow;
+	background-color: darkgrey;
 	border: 1px black solid;
 	padding: 20px;
+	float: left;
+	width: 30%;
 }
 
 #right {
-	background-color: white;
+	background-color: darkgrey;
 	border: 1px black solid;
 	padding: 20px;
+	float: right;
+	width: 30%;
+}
+
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: " ";
+	clear: both;
+	height: 0;
+}
+
+#bottominsta {
+	float: right;
 }
