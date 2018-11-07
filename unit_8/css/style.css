@@ -2,10 +2,11 @@
 body {
 	color: #33332D;
 	background: #F6F7D8;
+	font-size: 20px;
 }
 h1 {
 	text-align: center;
-	font-size: 60px;
+	font-size: 3em;
 	font-family: 'Raleway', sans-serif;
 }
 h2 {
@@ -91,29 +92,29 @@ nav a {
 #slogan {
 	text-align: center;
 	font-style: italic;
-	font-size: 28px;
+	font-size: 1.2em;
 	font-family: 'Roboto Slab', serif;
 	padding: 1em;
 }
 
 #two_column {
 	background-color: whitesmoke;
-	border: 1px black solid;
-	padding: 20px;
+	border: .05em black solid;
+	padding: 1em;
 }
 
 #left {
 	background-color: darkgrey;
-	border: 1px black solid;
-	padding: 20px;
+	border: 1.05em black solid;
+	padding: 1em;
 	float: left;
 	width: 30%;
 }
 
 #right {
 	background-color: darkgrey;
-	border: 1px black solid;
-	padding: 20px;
+	border: .05em black solid;
+	padding: 1em;
 	float: right;
 	width: 30%;
 }
