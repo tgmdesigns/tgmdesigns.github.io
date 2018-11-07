@@ -97,8 +97,9 @@ nav a {
 	width: 50%;
 }
 .responsive {
-	width: 100%;
-	height: auto;
+	width: 33.3%;
+	float: left;
+	padding: .5em;
 }
 #tgmlogo {
 	float: left;
