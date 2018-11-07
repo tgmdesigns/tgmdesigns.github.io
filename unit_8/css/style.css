@@ -97,26 +97,10 @@ nav a {
 	padding: 1em;
 }
 
-#two_column {
+#portfolio {
 	background-color: whitesmoke;
 	border: .05em black solid;
 	padding: 1em;
-}
-
-#left {
-	background-color: darkgrey;
-	border: .05em black solid;
-	padding: 1em;
-	float: left;
-	width: 30%;
-}
-
-#right {
-	background-color: darkgrey;
-	border: .05em black solid;
-	padding: 1em;
-	float: right;
-	width: 30%;
 }
 
 .clearfix:after {
@@ -126,6 +110,12 @@ nav a {
 	content: " ";
 	clear: both;
 	height: 0;
+}
+
+.work {
+	border: 0.5em black solid;
+	padding: 1em;
+
 }
 
 #bottominsta {
