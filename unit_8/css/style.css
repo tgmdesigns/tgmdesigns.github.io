@@ -60,7 +60,7 @@ footer a {
 	color: orange;
 }
 footer a:visited {
-	color: #d4d4ab;
+	color: #602E7A;
 }
 nav a {
 	text-decoration: none;
@@ -111,6 +111,7 @@ nav a {
 	background-color: whitesmoke;
 	border: 1em white solid;
 	padding: 0.5em;
+	width:90%;
 }
 
 .clearfix:after {
@@ -124,7 +125,6 @@ nav a {
 
 .art {
 	padding: 0.5em;
-	width:90%;
 
 }
 
