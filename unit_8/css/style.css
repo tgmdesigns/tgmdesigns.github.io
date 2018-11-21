@@ -189,7 +189,7 @@ nav a {
 	}
 	.responsive {
 		display: block;
-		max-width: 90%;
+		width: 90%;
 		float: none;
 		padding: 5%;
 	}	
