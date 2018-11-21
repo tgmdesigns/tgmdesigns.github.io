@@ -189,9 +189,9 @@ nav a {
 	}
 	.responsive {
 		display: block;
-		max-width: 780px;
+		max-width: 90%;
 		float: none;
-		padding: .5em;
+		padding: 5%;
 	}	
 }
 
