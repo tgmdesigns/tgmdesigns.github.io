@@ -183,6 +183,8 @@ nav a {
 	header nav {
 		float: none;
 		width: auto;
+		display: block;
+		background: #42423C;
 	}
 	.hero {
 		padding: 8em 0 0;
