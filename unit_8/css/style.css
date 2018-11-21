@@ -187,11 +187,13 @@ nav a {
 	.hero {
 		padding: 8em 0 0;
 	}
+	.art {
+		float: none;
+	}
 	.responsive {
 		display: block;
 		width: auto;
-		max-width: 90%;
-		float: none;
+		max-width: auto;
 		padding: 5%;
 	}	
 }
