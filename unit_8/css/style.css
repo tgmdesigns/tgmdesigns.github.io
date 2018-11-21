@@ -171,21 +171,27 @@ nav a {
 
 #instalogo {
 	float: right;
+	width: 60px;
+	display: none;
 }
 
 #bottominsta {
 	float: right;
 }
 
-@media only screen and (max-width: 800px) {
+@media only screen and (max-width: 850px) {
 	body {
 		font-size: 20px;
 	}
-	header nav {
-		float: none;
-		width: auto;
-		display: block;
+	header {
 		background: #42423C;
+	}
+	header nav a {
+		color: #fff
+		padding: 1em;
+		display: block;
+		vertical-align: middle;
+		border-bottom: 1px solid #ffffff1c;
 	}
 	.hero {
 		padding: 8em 0 0;
@@ -195,7 +201,8 @@ nav a {
 	}
 	.responsive {
 		display: block;
-		width: auto;
+		width: 100%;
+		max-width: 800px;
 		padding: 5%;
 	}	
 }
