@@ -1,18 +1,22 @@
 * {margin: 0; padding:0; box-sizing: border-box;}
+
 body {
 	color: #33332D;
 	background: #F6F7D8;
 	font-size: 16px;
 }
+
 h1 {
 	text-align: center;
 	font-size: 3em;
 	font-family: 'Raleway', sans-serif;
 }
+
 h2 {
 	font-family: 'Raleway', sans-serif;
 	padding: 1em; 
 }
+
 h3 {
 	font-family: 'Raleway', sans-serif;
 	text-align: center;
@@ -20,53 +24,66 @@ h3 {
 	text-transform: uppercase;
 	font-size: 1.5em;
 }
+
 p {
 	font-family: 'Roboto Slab', serif;
 	padding: 1em;
 }
+
 ul {
 	font-family: 'Roboto Slab', serif;
 	padding: 1em;
 }
+
 li {
 	font-family: 'Roboto Slab', serif;
 	padding-left: 1em;
 	padding-right: 1em;
 }
+
 header {
 	font-family: 'Roboto Slab', serif;
 	color: white;
 }
+
 header nav {
 	float: right;
 	padding: 2em;
 }
+
 header nav a {
 	color: #3d3e3d;
 	padding: 2em;
 }
+
 header nav a:visited {
 	color: smokewhite;
 }
+
 header nav a:hover {
 	color: orange;
 }
+
 footer {
 	font-family: 'Roboto Slab', serif;
 	color: white;
 	background: #42423C;
 	padding: 4em 1em 2em 1em;
 }
+
 footer a {
 	text-decoration: none;
 	color: orange;
 }
+
 footer a:visited {
 	color: lightslategray;
 }
+
 nav a {
 	text-decoration: none;
 }
+
 .hero {
 	background-image: url(../images/paintswhite.jpeg);
 	background-size: cover;
@@ -75,6 +92,7 @@ nav a {
 	padding: 15em 0 0;
 	height:90vh;
 }
+
 .hero .btn {
 	display: inline-block;
 	padding: 1em 4em;
@@ -84,23 +102,28 @@ nav a {
 	color: white;
 	background: #602E7A;
 }
+
 .hero .btn:hover {
 	background: orange;
 }
+
 .hero-inner {
 	text-align: center;
 }
+
 .center {
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
 	width: 50%;
 }
+
 .responsive {
 	width: 33.3%;
 	float: left;
 	padding: .5em;
 }
+
 #tgmlogo {
 	float: left;
 }
@@ -143,12 +166,10 @@ nav a {
 
 .art {
 	padding: 0.5em;
-
 }
 
 #instalogo {
 	float: right;
-
 }
 
 #bottominsta {
@@ -170,6 +191,12 @@ nav a {
 		float: none;
 		width: auto;
 	}
+	.responsive {
+		display: block;
+		width: auto;
+		float: none;
+		padding: .5em;
+	}	
 }
 
 
