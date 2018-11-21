@@ -193,7 +193,6 @@ nav a {
 	.responsive {
 		display: block;
 		width: auto;
-		max-width: auto;
 		padding: 5%;
 	}	
 }
