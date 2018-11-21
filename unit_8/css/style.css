@@ -162,9 +162,10 @@ nav a {
 	header nav {
 		float: none;
 		width: auto;
+	}
 	.art {
 		float: none;
 	}
-	}
+}
 
 
