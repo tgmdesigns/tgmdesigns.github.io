@@ -132,8 +132,22 @@ nav a {
 	height: 0;
 }
 
+.clearfix:after, #about:after {
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: " ";
+	clear: both;
+	height: 0;
+}
+
 .art {
 	padding: 0.5em;
+
+}
+
+#instalogo {
+	float: left;
 
 }
 
@@ -148,8 +162,9 @@ nav a {
 	header nav {
 		float: none;
 		width: auto;
-	}
 	.art {
-		float:none;
+		float: none;
 	}
+	}
+
 
