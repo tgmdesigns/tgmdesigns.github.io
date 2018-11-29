@@ -191,6 +191,7 @@ nav a {
 	header nav {
 		float: none;
 		clear: both;
+		text-align: center;
 	}
 	header nav a {
 		color: #fff
