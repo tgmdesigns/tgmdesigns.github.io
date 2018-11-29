@@ -54,6 +54,8 @@ header nav {
 header nav a {
 	color: #3d3e3d;
 	padding: 2em;
+	display: inline-block;
+	vertical-align: middle;
 }
 
 header nav a:visited {
@@ -185,6 +187,11 @@ nav a {
 	}
 	header {
 		background: #42423C;
+	}
+	header nav {
+		float: none;
+		clear: both;
+		text-align: center;
 	}
 	header nav a {
 		color: #fff
