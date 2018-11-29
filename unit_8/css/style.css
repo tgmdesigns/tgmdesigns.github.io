@@ -171,10 +171,9 @@ nav a {
 	padding: 0.5em;
 }
 
-#instalogo {
+#instalogo img {
 	float: right;
 	width: 60px;
-	display: none;
 }
 
 #bottominsta {
@@ -200,6 +199,12 @@ nav a {
 		text-align: center;
 		vertical-align: middle;
 		border-bottom: 1px solid #ffffff1c;
+	}
+	#instalogo img {
+		position: absolute;
+		top: 0;
+		right: 0;
+		width: 60px;
 	}
 	.hero {
 		padding: 8em 0 0;
