@@ -197,6 +197,7 @@ nav a {
 		color: white
 		padding: 1em;
 		display: block;
+		text-align: center;
 		vertical-align: middle;
 		border-bottom: 1px solid #ffffff1c;
 	}
