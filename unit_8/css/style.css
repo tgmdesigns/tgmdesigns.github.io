@@ -200,11 +200,11 @@ nav a {
 		vertical-align: middle;
 		border-bottom: 1px solid #ffffff1c;
 	}
-	#instalogo img {
+	a#instalogo {
 		position: absolute;
 		top: 0;
 		right: 0;
-		width: 60px;
+		border: none;
 	}
 	.hero {
 		padding: 8em 0 0;
